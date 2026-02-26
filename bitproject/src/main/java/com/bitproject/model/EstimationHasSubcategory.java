@@ -65,10 +65,6 @@ public class EstimationHasSubcategory {
     @Basic(optional = false)
     private BigDecimal totalarea;
 
-    @Column(name = "subcount")
-    @Basic(optional = false)
-    private Integer subcount;
-
 
 
 
